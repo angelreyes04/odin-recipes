@@ -1,0 +1,11 @@
+body {
+    background-color: darkgreen;
+}
+p, h1, h3, ol, ul {
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+
+}
+h1, h3 {
+    font-style: italic;
+}
